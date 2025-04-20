@@ -249,7 +249,8 @@ void draw () {
   quadraticVertex(476, 155, 484, 151);
   quadraticVertex(485, 148, 480, 147);
   quadraticVertex(482, 143, 487, 145);
-  quadraticVertex(464, 141, 472, 160);
+  quadraticVertex(472, 140, 470, 149);
+  quadraticVertex(466, 152, 473, 162);
   endShape();
   
   fill(#dddad1);
